@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# Data
+data/raw/*.txt
+data/processed/*.csv
+data/*.pkl
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+notebooks/*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
