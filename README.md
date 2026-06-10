@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 # PropPredict — Outil intelligent d'estimation immobilière par Intelligence Artificielle
 
 > **PropPredict** est une application web intuitive dotée d'une carte interactive qui permet d'obtenir l'estimation financière ultra-précise d'un bien immobilier en quelques secondes. En combinant la puissance de l'Intelligence Artificielle et des données foncières officielles, l'utilisateur a juste à saisir une adresse ou cliquer sur la carte pour évaluer la valeur de son bien.
