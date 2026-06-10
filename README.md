@@ -50,7 +50,7 @@ L'objectif central de validation statistique est d'atteindre :
 
 ---
 
-## Fiche Technique & Mots-Clés
+## Fiche Technique
 
 * **Architecture Globale** : `PropPredict — Pipeline XGBoost & Interface Flask pour l'Estimation Immobilière`
 * **Data Science & ML** : `XGBoost Regressor`, `Scikit-Learn Pipeline`, `Pandas`, `Joblib`, Feature Engineering (`surface_par_piece`, coordonnées géographiques).
