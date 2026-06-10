@@ -25,6 +25,8 @@ L'application adopte une **architecture web client-serveur classique** structur�
 3. **La couche données** : Combine le modèle persistant (`.pkl`), l'API publique française de géocodage et les métadonnées statiques des départements.
 
 Cette séparation stricte des responsabilités garantit la maintenabilité, la testabilité et l'évolutivité du système.
+
+
 <img width="1606" height="904" alt="image" src="https://github.com/user-attachments/assets/13bbbf62-d49e-46fc-97d7-9777bce5a739" />
 
 ---
