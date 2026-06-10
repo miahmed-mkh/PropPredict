@@ -90,12 +90,12 @@ Le dataset **Demandes de Valeurs Foncières (DVF)** est une publication officiel
 ```text
 PropPredict/
 │
+├── Résultats et démonstration/          
 ├── app.py                   # Serveur web Flask (Backend, Routage & Proxy API)
 ├── requirements.txt         # Dépendances Python du projet
 ├── README.md                # Documentation du projet
 │
-├── models/
-│   └── pipeline_final_pro.pkl  # Pipeline de Machine Learning entraîné et sauvegardé
+├── train_model.py           # Pipeline de Machine Learning entraîné et sauvegardé
 │
 │
 ├── static/                  # Assets Frontend
